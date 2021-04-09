@@ -1,4 +1,4 @@
-# ML-01
+# ML-02
 Esempio abbastanza basilare su k-means algorithm per unsupervised learning.
 
 C'è anche un esempio riguardante l'utilizzo del "silhouette method" per la ricerca del numero di cluster da considerare.
